@@ -1,0 +1,110 @@
+
+cutscenes.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+castle
+  rotate: false
+  xy: 2, 20
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+character
+  rotate: false
+  xy: 936, 404
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+cliff
+  rotate: false
+  xy: 404, 20
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+clouds
+  rotate: false
+  xy: 806, 226
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+starfield
+  rotate: false
+  xy: 2, 422
+  size: 960, 590
+  orig: 960, 590
+  offset: 0, 0
+  index: -1
+trees
+  rotate: false
+  xy: 806, 292
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+treesx32
+  rotate: false
+  xy: 964, 980
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+treesx64
+  rotate: false
+  xy: 806, 160
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+
+cutscenes2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ending
+  rotate: false
+  xy: 2, 478
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+lightning
+  rotate: false
+  xy: 2, 76
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+small
+  rotate: false
+  xy: 404, 348
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+titlefnt
+  rotate: false
+  xy: 404, 218
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+tools
+  rotate: false
+  xy: 404, 2
+  size: 408, 214
+  orig: 408, 214
+  offset: 0, 0
+  index: -1

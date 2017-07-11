@@ -1,0 +1,7 @@
+Hooray~  You crafted something for me!
+For actually going through with all this and actually helping me, let me tell you a secret!
+The great developer of your reality kind of forgot to remove debug settings from your world
+Certain commandline options exist that can change up the game.
+By appending -debug to the launch command, you can enter debug mode, which provides you with tons for testing.
+While you can save your game, it's hard to consider this as anything other than cheating.
+Hope you have fun with this secret!  Goodbye~

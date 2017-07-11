@@ -1,0 +1,18 @@
+Hey there, let me explain a few things to ya before you go and get yourself killed.
+This view of your existence is what we gods call the World Tree.
+We're letting you see the same as us so that you can get what you need to craft what we want.
+The first node you see here is your home node.
+Here you can rest up, save your progress, and look at what you've discovered.
+To the left is the crafting node.  You can make stuff there!
+You should be sure to check out the recipes for crafting before you go hunting.
+Knowing what you need is the first step to getting things done faster!
+To the right is the filesystem node.  Your entrypoint to the hard drive and internet.
+You'll need to explore the filesystem to find the items you need to craft.
+Be careful, as the filesystem is a bit dangerous.
+If you don't make it out alive, you'll lose all the items you found on that dive.
+When adventuring, be sure to keep track of the dates as well, in particular the lunar cycle.
+Enemies can get tougher during a full moon, and bosses become more frequent during an eclipse.
+More nodes exist within the World tree, but its inhabitants might not want to reveal them to you.
+Some things that the nodes offer might make your quest much easier, so keep unlocking them in mind.
+Your quest will be over once you craft all that we ask for.
+We'll let you go do your thing now, bye!

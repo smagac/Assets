@@ -1,0 +1,343 @@
+
+uiskin.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+3dbutton_down
+  rotate: false
+  xy: 578, 266
+  size: 12, 12
+  split: 3, 8, 3, 8
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+3dbutton_up
+  rotate: false
+  xy: 594, 288
+  size: 12, 12
+  split: 3, 8, 3, 8
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+window6
+  rotate: false
+  xy: 594, 288
+  size: 12, 12
+  split: 3, 8, 3, 8
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+audio
+  rotate: false
+  xy: 247, 27
+  size: 186, 220
+  orig: 186, 220
+  offset: 0, 0
+  index: -1
+banner
+  rotate: false
+  xy: 902, 490
+  size: 43, 20
+  split: 21, 21, 11, 8
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 469, 219
+  size: 8, 8
+  split: 2, 2, 2, 2
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+progback
+  rotate: false
+  xy: 469, 219
+  size: 8, 8
+  split: 1, 1, 1, 1
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+tag
+  rotate: false
+  xy: 469, 219
+  size: 8, 8
+  split: 3, 3, 3, 3
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+button_down
+  rotate: false
+  xy: 838, 399
+  size: 13, 13
+  split: 6, 6, 6, 6
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+button_up
+  rotate: false
+  xy: 902, 475
+  size: 13, 13
+  split: 6, 6, 6, 6
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+character
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+male
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+checkbox-checked
+  rotate: false
+  xy: 594, 302
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+checkbox-unchecked
+  rotate: false
+  xy: 435, 195
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+controller
+  rotate: false
+  xy: 552, 322
+  size: 250, 188
+  orig: 250, 188
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 20, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+download
+  rotate: false
+  xy: 38, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fader
+  rotate: false
+  xy: 56, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+wfill
+  rotate: false
+  xy: 56, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+female
+  rotate: false
+  xy: 74, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fill
+  rotate: false
+  xy: 92, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+gameplay
+  rotate: false
+  xy: 2, 249
+  size: 273, 261
+  orig: 273, 261
+  offset: 0, 0
+  index: -1
+god
+  rotate: false
+  xy: 110, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goddess
+  rotate: false
+  xy: 128, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+list
+  rotate: false
+  xy: 489, 239
+  size: 8, 8
+  split: 2, 2, 2, 2
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 552, 254
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+network
+  rotate: false
+  xy: 277, 249
+  size: 273, 261
+  orig: 273, 261
+  offset: 0, 0
+  index: -1
+pointer
+  rotate: false
+  xy: 435, 215
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pointersm
+  rotate: false
+  xy: 146, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+progfront
+  rotate: false
+  xy: 808, 370
+  size: 8, 8
+  split: 1, 1, 1, 1
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+scroll-knob
+  rotate: false
+  xy: 808, 370
+  size: 8, 8
+  split: 1, 1, 1, 1
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+scroll
+  rotate: false
+  xy: 614, 310
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+selected
+  rotate: false
+  xy: 838, 389
+  size: 8, 8
+  split: 2, 2, 2, 2
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 804, 380
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tab_down
+  rotate: false
+  xy: 947, 497
+  size: 13, 13
+  split: 6, 6, 6, 6
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+tab_up
+  rotate: false
+  xy: 200, 5
+  size: 13, 13
+  split: 6, 6, 6, 6
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+textcursor
+  rotate: false
+  xy: 804, 346
+  size: 2, 32
+  orig: 2, 32
+  offset: 0, 0
+  index: -1
+uninstall
+  rotate: false
+  xy: 164, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 182, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+video
+  rotate: false
+  xy: 2, 20
+  size: 243, 227
+  orig: 243, 227
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 804, 414
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+window2
+  rotate: false
+  xy: 552, 280
+  size: 40, 40
+  split: 16, 23, 16, 23
+  pad: 16, 7, 16, 7
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+window3
+  rotate: false
+  xy: 435, 183
+  size: 10, 10
+  split: 4, 5, 4, 5
+  pad: 4, 1, 4, 1
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+window4
+  rotate: false
+  xy: 469, 229
+  size: 18, 18
+  split: 6, 11, 6, 11
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+window5
+  rotate: false
+  xy: 455, 203
+  size: 10, 10
+  split: 4, 5, 4, 5
+  pad: 4, 1, 4, 1
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

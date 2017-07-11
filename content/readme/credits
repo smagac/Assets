@@ -1,0 +1,74 @@
+#Graphics, Programming, Project Lead
+    Nicholas Hydock
+ 
+#Ideas, Suggestions, Emotional Support
+    Patrick Flanagan
+    Matthew Hydock
+    Andrew Hoffman
+ 
+#Additional Support and Testing
+    Ian Keefer
+    Tyler Dalious
+ 
+
+
+
+ 
+C:\raft features content that is licensed under Creative-Commons BY or other permissive licenses.  The following are lists of attribution towards sources of the various content in C:\raft
+
+#Sound Attribution
+
+Sounds used from freesound.org
+	timgorml - 8-bit hurt1, 8-bit coin, 8-bit shimmer, 8-bit bump, 
+	deathbygeko - boss fight, 
+	hgavin - Whoosh.wav, 
+	Dymewiz - footsteps (snow)_02.WAV, 
+	Phil25 - Stone Steps, 
+	ceberation - Footsteps on leaves.wav, 
+	aglinder - Footsteps Dirt 02, 
+	FableVision_Studios - Sandy Footsteps (foley), 
+	Koops - Page_Turn_24.wav, 
+	also featuring sounds recorded from Sonic & Knuckles
+	
+Music Track Attribution
+	Benj Briggs - Title for StoryMode, 
+	IMANKITA -
+        Aligator Laser, Final Boss, Get Away Car, Pentium Whores, Spacekid,
+		The Next Keith Moon, The Powers That Be, Tekken2,
+		Fuck You If You Don't Like Our Songs, Dreamland,
+		Militant Hornets From The Purple Hive
+
+Previously Featured Music
+	Chris Zabriskie - Rewound
+	pip - hannibaugh, 
+	Aaron Krogh - 294 - Leviathan (Battle Loop), 
+	Aaron Krogh - 223 Groovy BGM (Loop), 
+	Aaron Krogh - 306 Boss Battle 2 (Loop), 
+	Jahzzar - Take Me Higher, 
+	Monroeville Music Center - B002, 
+	fb - cueball, 
+	Decktonic - Fair Game, 
+	Sycamore Drive - Kicks, 
+	Revolution Void - Telluric Undercurrent, 
+	Anamanaguchi - Helix Nebula
+	PeriTune
+		Labyrinth, Lost Place, Suspense 4, Wonder,
+		BattleField, Fight2, Raid
+		https://soundcloud.com/sei_peridot/sets/peritunematerial
+    Jesse Spillane - Sinking Feeling
+	Eric Skiff - All of Us,
+	Jahzzar - Self Portrait
+    Music: “Space (Outro)” by Andy G. Cohen
+		Released under a Creative Commons Attribution International License
+		https://andyg.co/hen/songs/space
+
+
+#FOSS Libraries Used
+LibGDX - core engine of the game
+		http://libgdx.badlogicgames.com/
+Ashley - an entity system, used in dungeoning
+		https://github.com/libgdx/ashley
+SquidLib - FOV calculations
+		https://github.com/SquidPony/SquidLib
+roguelikelib - dungeon generation algorithm
+		http://sourceforge.net/projects/roguelikelib/

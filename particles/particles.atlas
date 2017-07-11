@@ -1,0 +1,27 @@
+
+particles.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion
+  rotate: false
+  xy: 2, 20
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+rain
+  rotate: false
+  xy: 36, 36
+  size: 1, 16
+  orig: 1, 16
+  offset: 0, 0
+  index: -1

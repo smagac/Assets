@@ -1,0 +1,66 @@
+##Dungeoning
+
+#Controls
+Movement/Target Adjustment
+Up, Down, Left, Right
+
+Accept - A
+Cancel - B
+Action/Toggle Window Focus - C
+
+Request Assistance - A 
+Targeting Mode - B
+Cast Spell (when in Targeting Mode) - A
+
+Unlock - Hold C or Right Click + Movement Key while next to door/treasure chest
+Trade/Intimidate - Hold C or Right Click + Movement Key while next to a monster
+Ascend/Descend - Press C while on staircase
+
+
+
+*Controls are configurable at any point in time by pressing Escape
+
+#Gameplay
+Like any classic roguelike, all you have to do is bump into enemies to attack them.
+Movement is turn based, meaning enemies will only move when you do.  Unless you know what you're doing and your reflexes are god-like, rushing will usually just get you killed really fast.
+
+By pressing a Movement key or clicking around the character, you will move in that direction.
+- If you want to speed things up, you can tap rapidly to send off a stream of turns
+- Another recommendation would be to use two hands and alternately tap between two sets of input
+
+Hovering your mouse over any enemy sprite or moving the targeting cursor to them will show you their name and current amount of HP.
+
+Ascending while on the first floor of a dungeon will result in leaving the dungeon with no penalty, much like sacrificing to escape.
+
+#Obstacles In Your Path
+Doors inhibit your field of view and entry into rooms.  
+By gathering keys, you can simply open treasure chests or doors with no fear of being attacked by a mimic, or you can save keys by bashing the obstacles right in. 
+
+#Take Your Time
+Health recovers gradually over time as long as the player has not engaged in combat with any entity for at least 10 turns.  This is helpful when you wish to recover hp while not having to sacrifice items.  As recovery requires you to be out of combat for awhile, obviously you will still need to sacrifice items to maintain high hp while you are engaged in combat.  Sacrificing items will only heal the currently controlled character.
+
+#Gear Up
+Players may also gather equipment while dungeoning.  Enemies have a chance of dropping either a sword, shield, or piece of armor.  Equipment will automatically be put on upon stepping on the drop icon.  They all have durability values and a power bonus for your character.  Once a piece of equipment breaks, it no longer grants its power rating.  Equipment is reset with each dungeon.
+
+#Attune Yourself
+Spell casting enables the player to send out an attack that streams in a straight path, hurting all enemies in its path, penetrating their defense.  The amount of spells available is limited but does recharge over time.
+To cast a spell you must enter Targeting mode.  Targeting mode allows you to move a cursor anywhere within your FOV.  Spells can only be cast perpendicularly to the character, so the cursor will lock to an axis first when attempting to cast a spell.
+
+#Check Yourself
+Status ailments may disappear over time.  Toxic and Arthritis are serious ailments and do not heal by themselves, and thus require assistance from the Goddess in order to recover from them.
+
+#Pacifist Approach
+In case you're not a fan of killing innocent creatures, you can always Trade with them.  For a specified amount of items, an enemy will leave you alone and give you its drop.  The amount of items necessary to trade is dependent on the active character's level relative to the level of the monster.  If your character's level is ever sufficently larger than the enemy, you will intimidate the enemy, leaving their items behind for you.
+
+Additionally, you may find resources throughout the level such as ore or fishing spots, or you may find treasure chests.  You may harvest items from them by playing a simple time-based minigame.  Just press A in time with the slider to advance through each level.  Miss and you'll go down a level. 
+
+If the minigame is too frustrating for you, you can always just blow up chests and resources with a good ol' spell.  You might not get as many items out of it, though.
+
+#Partying
+If you trade with an enemy successfully they may join your party. You can have up to 4 allies in addition to your main character. By going into the assist menu, you can select which character to wander around as. You'll only keep the 4 strongest that you've befriended.  However, intimidated enemies will run away instead of join you.
+
+All characters have a shared inventory and shared equipment, but they all have their own stats and can become afflicted with their own set of ailments. Additionally, every enemy now has their own birthsign and job assigned to them, so when they join your party and switch to a different character you now have the opportunity to play the game differently.
+
+When a character dies, you'll automatically be prompted to change to another living character. Your main character may never be removed from the party, but if an ally dies they are removed from the party.
+
+If you have met the right conditions, it is possible to recruit persistent party members outside of the dungeon.  These members will join you on your journey into dungeons, so you may start with more than one character in your party.  They are subject to the same rules as monsters, and may be replaced by a monster if it is stronger than a hired member.

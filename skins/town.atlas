@@ -1,0 +1,146 @@
+
+town.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blacksmith
+  rotate: false
+  xy: 284, 491
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+craft
+  rotate: false
+  xy: 2, 719
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+explore
+  rotate: false
+  xy: 284, 743
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fitness
+  rotate: false
+  xy: 2, 2
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+hiddenplanet
+  rotate: false
+  xy: 800, 819
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 2, 184
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+homebg
+  rotate: false
+  xy: 542, 743
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+kingdom
+  rotate: false
+  xy: 2, 442
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: -1
+lunar0
+  rotate: false
+  xy: 184, 150
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lunar1
+  rotate: false
+  xy: 800, 785
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lunar2
+  rotate: false
+  xy: 982, 967
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lunar3
+  rotate: false
+  xy: 536, 567
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lunar4
+  rotate: false
+  xy: 754, 709
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lunar5
+  rotate: false
+  xy: 184, 116
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lunar6
+  rotate: false
+  xy: 218, 150
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lunar7
+  rotate: false
+  xy: 800, 751
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lunar8
+  rotate: false
+  xy: 834, 785
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lunar_eclipse
+  rotate: false
+  xy: 982, 933
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+recall
+  rotate: false
+  xy: 536, 601
+  size: 216, 140
+  orig: 216, 140
+  offset: 0, 0
+  index: -1
+sendoff
+  rotate: false
+  xy: 279, 457
+  size: 236, 32
+  orig: 236, 32
+  offset: 0, 0
+  index: -1
