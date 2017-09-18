@@ -55,6 +55,7 @@ com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
 	small: { font: small, fontColor: white },
 	smaller: { font: smaller, fontColor: white },
 	smallest: {font: smallest, fontColor: white},
+	unicode: {font: unicode, fontColor: white},
 	prompt: { font: prompt, fontColor: white },
 	promptsm: { font: promptsm, fontColor: white },
 	hover: { font: smaller, fontColor: black, background: button_down },
@@ -68,6 +69,8 @@ com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
 	banner: { font: prompt, fontColor: black, background: banner},
 	console: { font: monosm, fontColor: white},
 	title: { font: title, fontColor: white},
+	files: {font: unicode, fontColor: white, background: list},
+	filesSelected: { font: unicode, fontColor: black, background: selected}
 },
 com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
 	default: { selection: wfill, background: window6, font: small, fontColor: white, cursor: textcursor },
