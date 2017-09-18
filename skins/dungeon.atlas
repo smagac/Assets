@@ -347,7 +347,7 @@ torch
   orig: 32, 32
   offset: 0, 0
   index: -1
-up
+escape
   rotate: false
   xy: 512, 20
   size: 32, 32
