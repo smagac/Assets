@@ -63,7 +63,7 @@ com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
 	field: { font: smaller, fontColor: white, background: box },
 	dmg: { font: dmg, fontColor: white },
 	loading: { font: prompt, fontColor: white },
-	tag: { font: smallest, fontColor: white, background: tag },
+	tag: { font: unicode, fontColor: white, background: tag },
 	list: { font: smaller, fontColor: white, background: list},
 	selected: { font: smaller, fontColor: black, background: selected},
 	banner: { font: prompt, fontColor: black, background: banner},
