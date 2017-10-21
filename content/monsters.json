@@ -520,7 +520,8 @@
 		"agro": ".8",
 		"passive": "true",
 		"hideStats": "true",
-		"hideName": "true"
+		"hideName": "true",
+		"friend": "false"
 	},
 	"door": {
 		"hp": "1",
@@ -560,7 +561,8 @@
 		"passive": "true",
 		"hideStats": "true",
 		"hideName": "true",
-		"density": "1.0"
+		"density": "1.0",
+		"friend": "false"
 	},
 	"key": {
 		"hp": "1",
@@ -704,7 +706,8 @@
 		"type": "wisp",
 		"passive": "true",
 		"die": "%s passed on",
-		"hideStats": "true"
+		"hideStats": "true",
+		"friend": "false"
 	},
 	"damned": {
 		"hp": "15",
