@@ -80,6 +80,7 @@ com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
 	default: { fontColorUnselected: white, selection: selected, fontColorSelected: black, font: smaller },
 	log: { fontColorUnselected: white, selection: selected, fontColorSelected: black, font: smallest },
 	commands: { fontColorUnselected: white, selection: selected, fontColorSelected: black, font: prompt, background: box },
+	files: { fontColorUnselected: white, selection: selected, fontColorSelected: black, font: unicode }
 },
 com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: {
 	default: { background: progback, knobBefore: progfront},
