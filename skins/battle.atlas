@@ -1,110 +1,110 @@
 
 battle.png
-size: 1024,256
+size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 blessing
   rotate: false
-  xy: 2, 166
+  xy: 2, 36
   size: 192, 32
   orig: 192, 32
   offset: 0, 0
   index: -1
 clouds
   rotate: false
-  xy: 2, 100
+  xy: 313, 47
   size: 128, 64
   orig: 128, 64
   offset: 0, 0
   index: -1
 d1
   rotate: false
-  xy: 2, 2
-  size: 96, 96
-  orig: 96, 96
+  xy: 196, 36
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
 d2
   rotate: false
-  xy: 313, 145
-  size: 96, 96
-  orig: 96, 96
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
 d3
   rotate: false
-  xy: 411, 145
-  size: 96, 96
-  orig: 96, 96
+  xy: 805, 79
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
 d4
   rotate: false
-  xy: 509, 145
-  size: 96, 96
-  orig: 96, 96
+  xy: 230, 36
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
 d5
   rotate: false
-  xy: 607, 145
-  size: 96, 96
-  orig: 96, 96
+  xy: 36, 2
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
 d6
   rotate: false
-  xy: 705, 145
-  size: 96, 96
-  orig: 96, 96
+  xy: 839, 79
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
 dice
   rotate: false
-  xy: 803, 145
+  xy: 443, 15
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 enemystats
   rotate: false
-  xy: 2, 200
+  xy: 2, 70
   size: 309, 41
   orig: 309, 41
   offset: 0, 0
   index: -1
 hitbox
   rotate: false
-  xy: 901, 177
+  xy: 541, 47
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 hitboxin
   rotate: false
-  xy: 132, 100
+  xy: 607, 47
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 hittri
   rotate: false
-  xy: 100, 34
+  xy: 673, 47
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 hittriin
   rotate: false
-  xy: 901, 111
+  xy: 739, 47
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 sacrifice
   rotate: false
-  xy: 196, 166
+  xy: 264, 36
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
